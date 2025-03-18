@@ -30,7 +30,7 @@ const ZipCodeStep: React.FC = () => {
     <div className="form-step">
       <div className="bg-blue-500 -mx-12 -mt-14 mb-10 py-10 px-12 text-white">
         <h1 className="text-2xl md:text-3xl font-bold mb-4">
-          How Much Does Kitchen Cabinet Refacing Cost In The New York, NY Area?
+          How Much Does Kitchen Cabinet Refacing Cost?
         </h1>
       </div>
       
