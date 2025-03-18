@@ -23,14 +23,6 @@ const CompletionStep: React.FC = () => {
   return (
     <div className="form-step">
       <div className="flex flex-col items-center text-center mb-8">
-        <div className="w-24 h-24 rounded-full bg-blue-100 flex items-center justify-center mb-6">
-          <img 
-            src="/lovable-uploads/b1d1343f-3fa2-4569-8265-fdaf76a04799.png" 
-            alt="Completion" 
-            className="w-16 h-16 object-contain"
-          />
-        </div>
-        
         <h2 className="text-2xl font-bold mb-4">
           Thank you! Your contractor Revalize Kitchens will call soon!
         </h2>
